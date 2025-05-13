@@ -1,7 +1,7 @@
 {
-  "name": "package-name",
+  "name": "tracker",
   "version": "0.0.1",
-  "description": "<description>",
+  "description": "tracking library",
   "types": ".dist/index.d.ts",
   "main": ".dist/index.js",
   "module": ".dist/index.mjs",
@@ -15,31 +15,19 @@
     }
   },
   "keywords": [
-    "react",
-    "hook"
+    "tracking"
   ],
-  "author": "<author name>",
+  "author": "domeafavour",
   "license": "MIT",
-  "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0"
-  },
+  "peerDependencies": {},
   "devDependencies": {
-    "@testing-library/dom": "^10.4.0",
-    "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.1.0",
-    "@types/react": ">=16.8.0",
-    "@types/react-dom": ">=16.8.0",
-    "happy-dom": "^16.5.3",
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5",
     "vitest": "^2.1.8"
   },
   "repository": {
     "type": "git",
-    "url": "<your repo url>"
+    "url": "https://github.com/domeafavour/tracker"
   },
   "scripts": {
     "test": "vitest",
