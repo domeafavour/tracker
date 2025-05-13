@@ -1,5 +1,5 @@
 {
-  "name": "tracker",
+  "name": "trackeer",
   "version": "0.0.1",
   "description": "tracking library",
   "types": ".dist/index.d.ts",
