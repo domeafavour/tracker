@@ -1,7 +1,7 @@
 {
   "name": "trackeer",
   "version": "0.0.1",
-  "description": "tracking library",
+  "description": "A lightweight, flexible TypeScript library for tracking events and actions in applications with type safety",
   "types": ".dist/index.d.ts",
   "main": ".dist/index.js",
   "module": ".dist/index.mjs",
@@ -15,7 +15,12 @@
     }
   },
   "keywords": [
-    "tracking"
+    "tracking",
+    "analytics",
+    "events",
+    "typescript",
+    "type-safe",
+    "zero-dependencies"
   ],
   "author": "domeafavour",
   "license": "MIT",
